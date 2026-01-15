@@ -1,19 +1,90 @@
-<h1 align="center">Hi 👋, I'm Roland Tenkorang(Rolie-CODE)</h1>
-<h3 align="center">A passionate junior software developer from Ghana.</h3>
+# Rolie-CODE
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rolie-code" alt="rolie-code" /></a> </p>
+### Software Developer | Computer Science Student
 
-- 🔭 I’m currently working on a **library management system**
+I am a Computer Science student with a strong interest in building practical software systems. I focus on writing clean, structured Python code and learning backend and full-stack development through real-world projects.
 
-- 📫 How to reach me **rolandtenkoko@gmail.com**
+I enjoy breaking down problems, designing logical solutions, and improving my skills by consistently building and refining applications.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🛠 Technical Skills
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rolie-code&show_icons=true&locale=en&layout=compact" alt="rolie-code" /></p>
+**Programming Languages**
+- Python  
+- HTML & CSS  
+- PHP (foundational)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rolie-code&" alt="rolie-code" /></p>
+**Tools & Technologies**
+- Git & GitHub  
+- JSON (data persistence)  
+- Command Line  
+- VS Code  
+
+**Core Concepts**
+- Object-Oriented Programming  
+- File Handling  
+- Modular Code Design  
+- Data Structures (foundational)
+
+---
+
+## 📌 Projects
+
+### Royal Library Management System
+A console-based Python application that simulates a real-world library system.
+
+**Features**
+- Role-based access (Administrator & Member)
+- Book management (add, update, delete, view)
+- User authentication and account management
+- Persistent storage using JSON
+- PDF book access directly from the system
+
+**Tech Stack:** Python, JSON
+
+---
+
+### Mobile Money Simulation System
+A Python-based simulation of mobile money operations.
+
+**Features**
+- Account creation and authentication
+- Secure PIN verification
+- Transfers between users
+- Transaction tracking
+
+**Tech Stack:** Python, JSON
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rolie-CODE&show_icons=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rolie-CODE&layout=compact&theme=default&hide_border=true)
+
+---
+
+## 🎯 Current Focus
+- Strengthening Python fundamentals  
+- Learning backend development concepts  
+- Writing clean and maintainable code  
+- Building projects suitable for internships and junior roles  
+
+---
+
+## 🚀 Goals
+- Become a proficient full-stack software developer  
+- Build scalable and maintainable software systems  
+- Gain industry experience through internships  
+- Contribute to open-source projects  
+
+---
+
+## 📫 Contact
+- GitHub: **Rolie-CODE**
+
+---
+
+> “Learning by building is the fastest path to mastery.”
