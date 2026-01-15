@@ -58,13 +58,6 @@ A Python-based simulation of mobile money operations.
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rolie-CODE&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rolie-CODE&layout=compact&theme=default&hide_border=true)
-
----
 
 ## 🎯 Current Focus
 - Strengthening Python fundamentals  
@@ -84,6 +77,7 @@ A Python-based simulation of mobile money operations.
 
 ## 📫 Contact
 - GitHub: **Rolie-CODE**
+- Email: **rolandtenkoko@gmail.com**
 
 ---
 
