@@ -14,6 +14,7 @@ I enjoy breaking down problems, designing logical solutions, and improving my sk
 - Python  
 - HTML & CSS  
 - PHP (foundational)
+- NumPy
 
 **Tools & Technologies**
 - Git & GitHub  
