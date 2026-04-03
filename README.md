@@ -12,3 +12,7 @@ Current Focus: Strengthening Python fundamentals, learning backend development, 
 Goals: Become a proficient full-stack developer, build scalable systems, gain industry experience, and contribute to open-source.
 
 Learning by building is the fastest path to mastery.
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Rolie-CODE&theme=dark&hide_border=true)
