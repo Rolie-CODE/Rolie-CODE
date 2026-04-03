@@ -1,56 +1,14 @@
-# Rolie-CODE
+Rolie-CODE — Software Developer | Computer Science Student
 
-### Software Developer | Computer Science Student
+Computer Science student focused on building practical software systems and developing strong backend and full-stack skills. Experienced in writing clean, structured Python code and solving problems through real-world projects.
 
-I am a Computer Science student with a strong interest in building practical software systems. I focus on writing clean, structured Python code and learning backend and full-stack development through real-world projects.
+Technical Skills: Python, HTML & CSS, foundational PHP, NumPy, Git & GitHub, JSON, Command Line, VS Code.
+Core Knowledge: Object-Oriented Programming, file handling, modular design, and foundational data structures.
 
-I enjoy breaking down problems, designing logical solutions, and improving my skills by consistently building and refining applications.
+Project Experience: Developed a Python-based mobile money simulation featuring account authentication, secure PIN verification, user transfers, and transaction tracking using Python and JSON.
 
----
+Current Focus: Strengthening Python fundamentals, learning backend development, and building maintainable, internship-ready projects.
 
-## 🛠 Technical Skills
+Goals: Become a proficient full-stack developer, build scalable systems, gain industry experience, and contribute to open-source.
 
-**Programming Languages**
-- Python  
-- HTML & CSS  
-- PHP (foundational)
-- NumPy
-
-**Tools & Technologies**
-- Git & GitHub  
-- JSON (data persistence)  
-- Command Line  
-- VS Code  
-
-**Core Concepts**
-- Object-Oriented Programming  
-- File Handling  
-- Modular Code Design  
-- Data Structures (foundational)
-
----
-A Python-based simulation of mobile money operations.
-
-**Features**
-- Account creation and authentication
-- Secure PIN verification
-- Transfers between users
-- Transaction tracking
-
-**Tech Stack:** Python, JSON
-
-## 🎯 Current Focus
-- Strengthening Python fundamentals  
-- Learning backend development concepts  
-- Writing clean and maintainable code  
-- Building projects suitable for internships and junior roles  
-
----
-
-## 🚀 Goals
-- Become a proficient full-stack software developer  
-- Build scalable and maintainable software systems  
-- Gain industry experience through internships  
-- Contribute to open-source projects  
-
-> “Learning by building is the fastest path to mastery.”
+Learning by building is the fastest path to mastery.
