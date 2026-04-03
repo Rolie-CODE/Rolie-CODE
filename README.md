@@ -29,24 +29,6 @@ I enjoy breaking down problems, designing logical solutions, and improving my sk
 - Data Structures (foundational)
 
 ---
-
-## 📌 Projects
-
-### Royal Library Management System
-A console-based Python application that simulates a real-world library system.
-
-**Features**
-- Role-based access (Administrator & Member)
-- Book management (add, update, delete, view)
-- User authentication and account management
-- Persistent storage using JSON
-- PDF book access directly from the system
-
-**Tech Stack:** Python, JSON
-
----
-
-### Mobile Money Simulation System
 A Python-based simulation of mobile money operations.
 
 **Features**
@@ -56,9 +38,6 @@ A Python-based simulation of mobile money operations.
 - Transaction tracking
 
 **Tech Stack:** Python, JSON
-
----
-
 
 ## 🎯 Current Focus
 - Strengthening Python fundamentals  
@@ -73,13 +52,5 @@ A Python-based simulation of mobile money operations.
 - Build scalable and maintainable software systems  
 - Gain industry experience through internships  
 - Contribute to open-source projects  
-
----
-
-## 📫 Contact
-- GitHub: **Rolie-CODE**
-- Email: **rolandtenkoko@gmail.com**
-
----
 
 > “Learning by building is the fastest path to mastery.”
