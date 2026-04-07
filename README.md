@@ -1,4 +1,4 @@
-Rolie-CODE — Software Developer | Computer Science Student
+Software Developer | Computer Science Student
 
 Computer Science student focused on building practical software systems and developing strong backend and full-stack skills. Experienced in writing clean, structured Python code and solving problems through real-world projects.
 
